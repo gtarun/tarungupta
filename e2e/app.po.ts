@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class TarunguptainPage {
+export class tarunguptaPage {
   navigateTo() {
     return browser.get('/');
   }

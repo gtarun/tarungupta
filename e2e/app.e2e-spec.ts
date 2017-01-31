@@ -1,10 +1,10 @@
-import { TarunguptainPage } from './app.po';
+import { tarunguptaPage } from './app.po';
 
-describe('tarunguptain App', function() {
-  let page: TarunguptainPage;
+describe('tarungupta App', function() {
+  let page: tarunguptaPage;
 
   beforeEach(() => {
-    page = new TarunguptainPage();
+    page = new tarunguptaPage();
   });
 
   it('should display message saying app works', () => {
